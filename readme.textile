@@ -1,0 +1,3 @@
+h2. Übersicht der Elexis Wiki-Seiten
+
+The Elexis-Wiki has moved to "http://wiki.elexis.info/":http://wiki.elexis.info/
